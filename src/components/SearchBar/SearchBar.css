@@ -1,0 +1,13 @@
+.search-bar {
+  margin-top: 23px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.search-bar .input-search {
+  width: 100%;
+  border-style: unset;
+  /* background-color: #eeeeee; */
+}
+.search-bar .input-search:focus {
+  outline-color: white;
+}

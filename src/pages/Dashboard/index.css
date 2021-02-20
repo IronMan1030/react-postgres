@@ -1,0 +1,24 @@
+.dashboard-section h3 {
+  font-size: 24px;
+}
+.dashboard-section h4 {
+  font-size: 20px;
+}
+.dashboard-section .btn-submit {
+  border-radius: 5px;
+  width: 145px;
+  color: #fff;
+  background-color: #5f7bf4;
+  border-style: unset;
+  height: 45px;
+}
+.dashboard-section .export-block {
+  display: flex;
+  justify-content: flex-end;
+  /* color: #5f7bf4; */
+  color: #007bff;
+}
+.dashboard-section .export-block svg {
+  margin-right: 6px;
+  margin-top: 2px;
+}

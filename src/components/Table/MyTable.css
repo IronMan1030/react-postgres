@@ -1,0 +1,24 @@
+thead {
+  background-color: #fbfbfd;
+}
+.table thead th {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.54);
+  font-weight: 500;
+}
+.user-block img {
+  float: left;
+  width: 50px;
+  border-radius: 6px;
+}
+.user-block span {
+  display: block;
+  margin-top: -1px;
+  margin-left: 70px;
+}
+.order-block span {
+  display: block;
+}
+.order-block a {
+  font-size: 15px;
+}
